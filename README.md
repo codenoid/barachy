@@ -57,4 +57,4 @@ $ ./barachy --path static.txt --port 3000
 ## Contributors
 
 - [codenoid](https://github.com/codenoid) Rubi Jihantoro - creator, maintainer
-- [barachy](https://github.com/barachy) Who inspiring the App Name
+- [bararchy](https://github.com/bararchy) Who inspiring the App Name
