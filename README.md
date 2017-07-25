@@ -2,6 +2,11 @@
 
 Barachy is a Static File Loader, Handler and Backuper, written in Crystal
 
+:smile: : Hi Barachy, I need your static file
+:shipit: : Ok,, loading first file ,,,, ummm, i think it's has been down, Change to second file. . . .,, Loaded
+:smile: : WHoaaaaa, thanks Barachy
+
+
 ## Installation
 
 to use barachy, make sure you have Crystal install in your machine, [How to Install it ?](http://45.76.185.142/read/install-crystal-language-on-ubuntu)
