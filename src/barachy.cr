@@ -42,7 +42,7 @@ module Barachy
           end
         end
       end
-      server = HTTP::Server.new(port.to_i, [profile_handler, route_handler])
+      server = HTTP::Server.new(rport.to_i, [profile_handler, route_handler])
       server.listen
     end
   end
