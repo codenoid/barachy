@@ -11,7 +11,7 @@ Barachy is a backend Static File Loader, Handler and Backuper, written in Crysta
 
 ## Installation
 
-to use barachy, make sure you have Crystal install in your machine, [How to Install it ?](http://45.76.185.142/read/install-crystal-language-on-ubuntu)
+to use barachy, make sure you have Crystal installed in your machine, [How to Install it ?](http://45.76.185.142/read/install-crystal-language-on-ubuntu)
 
 ```
 git clone https://github.com/codenoid/barachy
