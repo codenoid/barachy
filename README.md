@@ -1,6 +1,6 @@
 # Barachy
 
-Barachy is a Static File Loader, Handler and Backuper, written in Crystal, For **MASSIVE** Idea
+Barachy is a backend Static File Loader, Handler and Backuper, written in Crystal, For **MASSIVE** Idea
 
 :smile: : Hi Barachy, I need your static file
 
