@@ -1,0 +1,1 @@
+http://localhost/tentor.js,http://localhost/jquery.js 500 maxspeed.js text/javascript
